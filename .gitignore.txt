@@ -1,0 +1,2 @@
+Misc/*.txt
+/filetoignore.html
